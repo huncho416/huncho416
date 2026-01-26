@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm huncho</h1>
-<h3 align="center">I like minecraft</h3>
+<h3 align="center">talk to me nicely</h3>
 
 - 🔭 I’m currently working on [MythicPvP](mythicpvp.net)
 
